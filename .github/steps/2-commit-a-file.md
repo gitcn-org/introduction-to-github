@@ -36,13 +36,13 @@ _你已经成功创建了一个分支! :tada:_
 
 5. 点击内容编辑框右上角的 **Commit changes...**，随后会弹出一个提交对话框。
 
-6. 虽然 GitHub 会自动推荐一条提交信息，但为了多加练习，我们自己来填写。请在 **Commit message**（提交信息）输入框中输入：`Add PROFILE.md`。
+6. GitHub 会自动生成一条提交说明(commit message)，但为了多加练习，我们自己来填写。请在 **Commit message** 输入框中输入：`Add PROFILE.md`。
 
    - 填写**提交信息**（Commit message）与可选的**详细描述**（Extended description），有助于清晰说明本次修改的内容。当一次提交涉及多个文件时，这一点尤为实用。
 
    <img width="400" alt="screenshot of adding a new file with a commit message" src="../images/commit-message-dialog.png">
 
-7. 本节练习中，我们暂且忽略其他字段，直接点击 **Commit changes**。
+7. 本节我们暂时不用关心其他选项，直接点击 **Commit changes**。
 
 8. 现在你已经完成了文件的修改，Mona 会自动开始检查你的任务。稍等片刻，她会在评论中回复进度与下一步任务。
 

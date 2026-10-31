@@ -27,9 +27,9 @@ _你已经完成提交，干得漂亮! :sparkles:_
 
 4. 点击 **Create pull request**。
 
-5. 为你的 Pull Request 输入标题。默认情况下，标题会采用你的提交说明；在本练习中，我们将其修改为 `Add my first file`。
+5. 为你的 Pull Request 添加标题。默认情况下，标题为你的 commit message，这里可以改成 `Add my first file`.
 
-6. 接下来的输入框供你填写修改**描述**（description）。请简要概括截至目前所完成的工作。友情提示，你刚刚完成了：新建分支、创建文件以及执行提交。
+6. 下面输入框中输入描述性的话，说明你具体做了那些修改
 
    ![screenshot showing pull request](../images/create-pull-request-form.png)
 
