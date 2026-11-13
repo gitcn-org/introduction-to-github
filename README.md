@@ -28,7 +28,7 @@ _我们将在不到一小时的时间内学习如何使用GitHub_
 点击下方的 **COPY EXERCISE** 按钮，将练习代码复制到你的账号下。
 仓库创建完毕后，请给你亲爱的Mona（GitHub吉祥物）约20秒时间来你准备第一节课内容，然后**刷新页面**即可。
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=github-china&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=gitcn-org&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
 
 <details>
 <summary>遇到问题? 🤷</summary><br/>
